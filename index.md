@@ -2,6 +2,21 @@ Book Marks
 =========
 
 
+# 18-05-2015
+
+* [Listen to Wikipedia changes](http://listen.hatnote.com/): Plays musical notes
+  depending on the size on change.
+
+* [Wolfram Image Identify](https://www.imageidentify.com/)
+
+* [Labia
+  Library](http://www.labialibrary.org.au/your-labia/are-my-labia-normal/):
+reached this website from the WIRED article "[The Sex Talk You Never Had With Your Parents](http://www.wired.com/2015/02/sex-talk-never-parents/)"
+
+* [MetaMind](http://docs.metamind.io/v1.0/docs): Provides python API to create
+  classifiers, will check it out sometime.
+
+
 # 17-05-2015
 
 * [Proposal to close Siberian
