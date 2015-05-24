@@ -1,6 +1,15 @@
 Book Marks
 =========
 
+# 24-05-2015
+
+* [Listicles makes you dumber](http://magazine.good.is/infographics/online-lists-are-making-you-dumber): A clickbait about the harms of clickbait. I need to checkout the primary references(fortunately they provided the links):
+    * [Experimental Study of Inequality and
+Unpredictability in an Artificial
+Cultural Market](http://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf)
+    * [How little do users read](http://www.nngroup.com/articles/how-little-do-users-read/): A study to measure the amount of text read by average internet user.
+    * [Attention span statistics](http://www.statisticbrain.com/attention-span-statistics/)
+
 # 22-05-2015
 
 * [Must Watch Python videos](http://pymust.watch/): I definitely need to see
